@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate full-stack JavaScript developer. Skilled in building scalable web applications with a focus on intuitive user interfaces.<br>Experienced in React.js, Redux, TypeScript, Vue.js, Vuex, Express.js, Node.js, and MongoDB.<br>Committed to delivering clean and maintainable code for optimal performance. <br>Actively seeking opportunities to learn and grow in the ever-evolving web development landscape. 
+Passionate full-stack JavaScript developer. Skilled in building scalable web applications with a focus on intuitive user interfaces.<br>Experienced in React.js, Redux, TypeScript, Vue.js, Vuex, Express.js, Node.js, PHP, Laravel, MySQL, PostgreSQL and MongoDB.<br>Committed to delivering clean and maintainable code for optimal performance. <br>Actively seeking opportunities to learn and grow in the ever-evolving web development landscape. 
 
 
 # 💻 Tech Stack:
